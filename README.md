@@ -8,9 +8,9 @@ my Software Engineering I semester project.
 
 Function:
 This code serves to emulate a possible end use for an argument parser developed
-by my SCRUM team and I. This code imagines the parsers use as a possible system for
-taking orders at a pizza resturant. Using this in conjunction with my teams code we 
-were able to consistently able to keep our customer (in this case our professor)
+by my SCRUM team and I. This code imagines the parser's use as a possible system for
+taking orders at a pizza resturant. Using this in conjunction with my team's code we 
+were able to consistently keep our customer (in this case our professor)
 up to date with our progress. 
 
 Code Breakdown:
